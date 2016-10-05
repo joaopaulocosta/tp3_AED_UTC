@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1428055096 source:z:\tp3\tp3.c
+	<stdio.h>
+	<string.h>
+	"tp3.h"
+
+1428053602 z:\tp3\tp3.h
+
+1428054785 source:z:\tp3\main.c
+	<stdio.h>
+	<string.h>
+	"tp3.h"
+
+1429815545 source:c:\users\joao-pc\desktop\tp3\main.c
+	<stdio.h>
+	<string.h>
+	"tp3.h"
+
+1429263422 c:\users\joao-pc\desktop\tp3\tp3.h
+
+1429264076 source:c:\users\joao-pc\desktop\tp3\tp3.c
+	<stdio.h>
+	<string.h>
+	"tp3.h"
+
+1429260474 source:c:\users\nf16p015\desktop\tp3\tp3.c
+	<stdio.h>
+	<string.h>
+	"tp3.h"
+
+1429259821 c:\users\nf16p015\desktop\tp3\tp3.h
+
+1429259882 source:c:\users\nf16p015\desktop\tp3\main.c
+	<stdio.h>
+	<string.h>
+	"tp3.h"
+
+1429811945 source:d:\documentos\intercambio\utc\utc\aed\tp3\main.c
+	<stdio.h>
+	<string.h>
+	"tp3.h"
+
+1429259822 d:\documentos\intercambio\utc\utc\aed\tp3\tp3.h
+
+1429813701 source:d:\documentos\intercambio\utc\utc\aed\tp3\tp3.c
+	<stdio.h>
+	<string.h>
+	"tp3.h"
+
